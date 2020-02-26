@@ -1,0 +1,8 @@
+Origin: hasan
+Label: hasan
+Suite: stable
+Version: 2
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: for youtube
